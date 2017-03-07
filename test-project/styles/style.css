@@ -1,0 +1,32 @@
+html {
+	background-color: #000000;
+}
+
+body {
+	background-color: #84d0ff;
+	margin: 0 auto;
+	width: 1000px;
+	border: 5px solid #ffffff;
+	padding: 50px 20px 20px;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+	font-family: "Lora";
+	color: #c299ff;
+	text-shadow: 3px 3px 1px #ffffff;
+	font-size: 100px;
+	margin: 0;
+	padding: 20px 0;
+}
+
+p, ul {
+	font-family: "Raleway";
+	font-size: 18px;
+	line-height: 25px;
+}
